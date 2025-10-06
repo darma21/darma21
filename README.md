@@ -20,9 +20,15 @@
 
 ---
 
-### 📈 Statistik GitHub
-![Statistik GitHub darma21](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+### 🚀 Progres Belajar Bahasa Pemrograman
+
+| Bahasa | Kemajuan |
+|:-------|:---------|
+| 🐍 Python | 🔵🔵🔵⚪⚪ 60% |
+| 💻 C | 🔵🔵⚪⚪⚪ 40% |
+| 💾 C++ | 🔵🔵🔵⚪⚪ 60% |
+| 🌐 HTML & CSS | 🔵🔵🔵🔵⚪ 80% |
+
 
 ---
 
