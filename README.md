@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Halo, saya Darma Winata Suganda!
 
-<!--
-**darma21/darma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Saya mahasiswa **Universitas Jenderal Soedirman**, yang saat ini sedang belajar dasar-dasar pemrograman dan pengembangan web.  
+💻 Saya memiliki ketertarikan besar pada dunia teknologi dan senang mempelajari hal-hal baru.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sedang Dipelajari
+- C  
+- C++  
+- Python  
+- HTML & CSS  
+
+---
+
+### 🌱 Tentang Saya
+- 🎯 Selalu bersemangat untuk mengeksplorasi teknologi baru  
+- ⚙️ Tertarik pada pengembangan perangkat lunak dan pemecahan masalah  
+- 📚 Terus berusaha meningkatkan kemampuan coding dan membangun proyek pribadi  
+
+---
+
+### 📈 Statistik GitHub
+![Statistik GitHub Darma](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Hubungi Saya
+💬 Ayo belajar dan berkolaborasi bersama!  
+📧 [Tambahkan email kamu di sini jika ingin]  
+🌐 [Tambahkan website pribadi atau LinkedIn jika ada]
+
+---
+
+⭐ *"Terus belajar, terus berkembang, dan wujudkan mimpimu lewat kode!"*
+
